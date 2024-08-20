@@ -1,2 +1,2 @@
 # FirstGithubPages
-https://github.com/TylerSatterberg/FirstGithubPages
+https://tylersatterberg.github.io/FirstGithubPages/
